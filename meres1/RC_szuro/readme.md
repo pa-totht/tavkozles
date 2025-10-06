@@ -45,7 +45,8 @@ Felüláteresztő szűrő kapcs.
 $R  = 8Ω$  
 $C = 16 uF$  
 
-<img width="779" height="451" alt="image" src="https://github.com/user-attachments/assets/a24d8b1d-b98b-4b06-ba96-17d843d51755" />  
+<img width="898" height="402" alt="image" src="https://github.com/user-attachments/assets/ea9e29da-a9ed-49dd-a0a2-dffb7e7a93c6" />
+ 
 
 *képlet:*  
 
