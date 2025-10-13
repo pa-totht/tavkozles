@@ -52,7 +52,8 @@ $C = 16 uF$
 
 *képlet:*  
 
-$fh = {1\over  (2 * Pi * R * C)} $
+$fh = {1\over  (2 * Pi * R * C)} $  
+$fh = {1\over  (2 * Pi * 8 * 16)} = 1243 Hz  $  
 
 ----  
 
