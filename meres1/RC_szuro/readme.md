@@ -13,7 +13,8 @@ $C = 16 uF$
 
 *Képlet:*  
 
-$fh = {1\over  (2 * Pi * R * C)} $
+$fh = {1\over  (2 * Pi * R * C)} $   
+$fh = {1\over  (2 * Pi * 8 * 16)} $    
 
 
 ---  
@@ -36,7 +37,8 @@ $fh = {1\over  (2 * Pi * R * C)} $
 
 *grafikon:*  
 
-<img width="757" height="474" alt="image" src="https://github.com/user-attachments/assets/8fd088ed-3f18-482d-af26-9e6f79af1af4" />
+<img width="758" height="468" alt="image" src="https://github.com/user-attachments/assets/3171585d-97e4-47b9-8e68-f70153b70b2c" />  
+
 
 ----  
 Felüláteresztő szűrő kapcs.  
@@ -67,13 +69,14 @@ $fh = {1\over  (2 * Pi * R * C)} $
 1500 | 0.77  
 2000 | 0.84  
 2500 | 0.89  
-3000 | 0-91  
+3000 | 0.91  
 
 -----  
 
 *Grafikon*:  
 
-<img width="1019" height="502" alt="image" src="https://github.com/user-attachments/assets/3b0c035b-d81d-45af-b90b-f786952e5841" />
+<img width="764" height="480" alt="image" src="https://github.com/user-attachments/assets/e68e33e8-48bb-471d-9a6c-b66237012335" />  
+
 
 
 
