@@ -79,8 +79,8 @@ Az eredmények alapján a mérési helyen megfelelő minőségű DVB-T vétel bi
 Ha szükséges, meg kell vizsgálni az antennarendszer fejlesztésének lehetőségét, vagy további méréseket kell végezni különböző időjárási körülmények között, hogy hosszú távon is biztosított legyen a megfelelő minőségű vétel.  
 
 Aláírás:  
-Felelős mérő személy: …………………………  
-Dátum: ………………………………………  
+Felelős mérő személy: Tóth Tibor  
+Dátum: 2025.10.09.  
 
 
  
